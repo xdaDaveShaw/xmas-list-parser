@@ -1,0 +1,18 @@
+
+Alice: Nice
+ - Bike
+ - Socks * 2
+
+Bobby: Naughty
+ - Coal
+
+Claire:Nice
+ -Hat
+- Gloves  * 2
+ -   Book
+
+Dave : Naughty
+- Nothing
+
+
+
